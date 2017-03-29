@@ -1,5 +1,4 @@
-**Temporal Data Mining**
-(Vedashree Bagade, Ankit Gupta)
+**Temporal Data Mining** by Vedashree Bagade and Ankit Gupta
 
 Includes three main ipython notebook:
 
