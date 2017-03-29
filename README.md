@@ -1,4 +1,4 @@
-**Temporal Data Mining** by Vedashree Bagade and Ankit Gupta
+ **Temporal Data Mining** by Vedashree Bagade and Ankit Gupta
 
 Includes three main ipython notebook:
 
@@ -6,5 +6,5 @@ Includes three main ipython notebook:
 1. Robot Execution failure tutorial
 1. Dow Jones
 
-The datasets are available on http://archive.ics.uci.edu/ml/
+The datasets are available on [UCI recpository] (http://archive.ics.uci.edu/ml/)
 as well in the datasets zip folders uploaded here for each data set.
